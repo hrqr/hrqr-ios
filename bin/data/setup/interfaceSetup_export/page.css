@@ -1,0 +1,73 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#text {
+    float: left;
+    font-size: 1em;
+    width: 129.53125px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 50px;
+    margin-right: 0px;
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: 159.48727034px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.578125px;
+    margin-top: 20.15625px;
+    clear: both;
+    min-height: 23px;
+    margin-right: 0%;
+}
+
+#box {
+    float: left;
+    height: 50px;
+    margin-left: 11.59374915px;
+    margin-top: 22px;
+    clear: none;
+    width: 253.359375px;
+}
+
+#image {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 33.453125px;
+    margin-top: -0.203125px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 78.836621%;
+    display: block;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#box1 {
+    float: right;
+    height: 50px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 60px;
+    margin-right: 0%;
+}
+
